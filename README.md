@@ -7,7 +7,7 @@ The purpose of this software is to provide an interactive and engaging text-base
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
 
-[Demo Video: "Text-Based Adventure Game  in Python"](http://youtube.link.goes.here)
+[Demo Video: "Text-Based Adventure Game  in Python"]([http://youtube.link.goes.here](https://youtu.be/4EwxaHmDneU))
 
 # Development Environment
 Here are the tools that was use for my software and what each of them are and how they work.
