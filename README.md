@@ -5,7 +5,7 @@ The software I wrote is a text-based adventure game titled "Choose Your Own Adve
 
 The purpose of this software is to provide an interactive and engaging text-based adventure game experience. It serves as a creative and entertaining way for users to explore a haunted forest, make decisions that impact the narrative, and discover different outcomes based on their choices. The inclusion of multiple story branches, dynamic storytelling, and replayability adds depth to the gaming experience, encouraging users to explore different paths and endings. Overall, the software is designed for entertainment, storytelling, and user interaction in a game setting.
 
-[Demo Video: "Text-Based Adventure Game  in Python"]([http://youtube.link.goes.here](https://youtu.be/4EwxaHmDneU))
+[Demo Video: "Text-Based Adventure Game  in Python"](https://youtu.be/4EwxaHmDneU)
 
 # Development Environment
 Here are the tools that was use for my software and what each of them are and how they work.
